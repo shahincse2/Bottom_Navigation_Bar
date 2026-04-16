@@ -150,8 +150,8 @@ items: List.generate(bottomNavigationBarItems.length, (index) {
 
 ## 👨‍💻 Author
 
-Your Name
-GitHub: [https://github.com/your-username](https://github.com/shahincse2)
+Md. Shahin Alam
+GitHub: [https://github.com/shahincse2](https://github.com/shahincse2)
 
 ---
 
