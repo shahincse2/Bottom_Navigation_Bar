@@ -57,7 +57,7 @@ lib/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/flutter-bottom-navigation.git
+git clone https://github.com/shahincse2/flutter-bottom-navigation.git
 ```
 
 ### 2. Navigate to project
