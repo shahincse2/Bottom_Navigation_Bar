@@ -82,7 +82,11 @@ flutter run
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+<img width="1080" height="2340" alt="home" src="https://github.com/user-attachments/assets/56ebc108-bd8c-4ac0-b52a-68fe8024e8de" />
+<img width="1080" height="2340" alt="dashboard" src="https://github.com/user-attachments/assets/4d7f2bb5-36ee-4076-b8d1-86aa8cb4b52a" />
+<img width="1080" height="2340" alt="profile" src="https://github.com/user-attachments/assets/675f43df-2989-4011-bc16-32b74bd54655" />
+<img width="1080" height="2340" alt="pesticide" src="https://github.com/user-attachments/assets/2fef9fb3-4d0a-4ee6-ae01-ac0a3d7ecedf" />
+
 
 ---
 
